@@ -1,4 +1,3 @@
-// Clock
 
 const updateTime = () => {
     const time = new Date();
